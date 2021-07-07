@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>imagenes/lapiz.png</file>
+    <file>imagenes/lapiz.png</file>
+    <file>imagenes/cuento.png</file>
+  </qresource>
+</RCC>
